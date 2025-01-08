@@ -11,7 +11,9 @@ UnrealEngine을 활용하여 다양한 게임 환경을 설계하고, 그 배경
 
 ### 결과물
 - UnrealEngine을 활용한 게임 환경 구현을 경험  
-- 가장 효율적이고, 게임 환경을 극적으로 보일 수 있게 하는 전반적인 공부   
+- 가장 효율적이고, 게임 환경을 극적으로 보일 수 있게 하는 전반적인 공부
+
+### [기말 과제 영상](https://youtu.be/jVIqNm7P7HE)
 
 ![중간 과제 사진](image/1.jpeg)
 ![중간 과제 사진](image/2.jpeg)  
@@ -22,7 +24,7 @@ UnrealEngine을 활용하여 다양한 게임 환경을 설계하고, 그 배경
 ![중간 과제 사진](image/7.jpeg)  
 ![중간 과제 사진](image/8.jpeg)  
 ![중간 과제 사진](image/9.jpeg)  
-### [기말 과제 영상](https://youtu.be/jVIqNm7P7HE)
+
 
 ---
 
