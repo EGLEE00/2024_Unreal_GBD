@@ -49,7 +49,7 @@ Designed diverse game environments using Unreal Engine and created videos based 
 
 # 2024_Unreal_GBD
 
-## 2024年 前期 ゲーム環境デザイン授業
+## 2024年 2学期 ゲーム環境デザイン授業
 
 ### プロジェクト概要  
 Unreal Engineを使用して多様なゲーム環境を設計し、それを基に映像を制作しました。  
